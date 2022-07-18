@@ -1,8 +1,8 @@
 # FCR
 Plataforma para coaching a FormadoresTIC
 
------------------------------------------
-MySQL:
+---------------------------------------------------------------------
+## MySQL:
 Verificar estado de mysql:  
 $ service mysql status
 
@@ -27,3 +27,23 @@ mysql> describe *tabla*;
 
 Salir de mysql:  
 mysql> quit
+
+---------------------------------------------------------------------
+## Crear database en MySQL
+$ mysql -u root -p  
+Enter password: Pauet:21
+
+mysql> create database Futbol;
+
+Crear tabla jugadores:
+DROP TABLE jugadores;
+CREATE TABLE jugadores
+(
+id INT UNSIGNED primary key auto_increment,
+nombre VARCHAR(20),	
+fnacim VARCHAR(20),	
+origen VARCHAR(20),  
+nifnie VARCHAR(20) unique
+);
+
+
