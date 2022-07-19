@@ -39,11 +39,14 @@
 		}
 
 		function inicio(){
+			var n = 0;
 			var board = document.getElementById('board');
 			for (i=0;i<8;i++){
 				for (j=0;j<8;j++){
+					n++;
 					var casilla = document.createElement('div');
-					casilla.id = ''+i+':'+j;
+					casilla.id = ''+(i*8+j);
+//					casilla.innerHTML = n;
 					casilla.style.left = (i*60)+'px';
 					casilla.style.top = (j*60)+'px';
 					casilla.style.position = 'absolute';

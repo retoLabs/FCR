@@ -1,0 +1,191 @@
+Contenidos
+1. Arquitecturas de aplicaciones web
+– Esquema general.
+– Arquitectura en capas.
+– Interacción entre las capas cliente y servidor.
+– Arquitectura de la capa cliente.
+2. Navegadores web
+– Arquitectura de un navegador.
+– Interfaz de usuario.
+– Motor de exploración.
+– Motor de presentación.
+– Módulos auxiliares: persistencia, interfaz de red, intérprete de scripts,
+infraestructura de presentación.
+– Navegadores de uso común. Comparativa.
+– Seguridad en navegadores.
+– Integración de aplicaciones en navegadores. Adaptadores (plugins).
+– Adaptadores comunes en diferentes navegadores.
+– Configuración de tipos de ficheros y adaptadores.
+– Conformidad a estándares.
+4. Lenguajes de guión de uso general
+– Integración de lenguajes de guión en navegadores web.
+– Comparativa y compatibilidad con navegadores.
+– Diferencias entre versiones.
+– Estructura general de un programa en un lenguaje de guión.
+– Variables y tipos de datos.
+– Operadores.
+– Objetos.
+– Sentencias. Anidamiento.
+– Estructuras de control y condicionales.
+– Bucles.
+– Comentarios.
+3. Creación de contenido web dinámico
+– Fundamentos de programación.
+– Constantes, variables. Tipos de datos simples y estructurados.
+– Expresiones y sentencias. Operadores básicos.
+– Control de flujo: secuencial, bucles y condicionales.
+– Subprogramas: procedimientos y funciones. Librerías.
+– Tipos de parámetros.
+– Llamadas a funciones. Recursividad.
+– Nociones de orientación a objetos: clases y objetos. Herencia.
+– Principales metodologías de programación.
+– Lenguajes para el desarrollo de contenido dinámico.
+– Lenguajes de guión. Características generales.
+– Comparativa de lenguajes de guión. Criterios para la selección de un
+lenguaje de guión.
+– Máquinas virtuales en navegadores. Miniaplicaciones (applets).
+– Otros lenguajes para el desarrollo de aplicaciones web enriquecidas (RIA)
+
+Funciones.
+– Parámetros.
+– Variables locales y globales.
+– Bibliotecas de funciones.
+Manipulación de texto.
+– Funciones básicas para la manipulación de texto.
+– Introducción y validación de texto.
+Listas (arrays).
+– Creación de arrays básicos.
+– Arrays multidimensionales.
+– Tratamiento de arrays mediante bucles.
+Formatos estándar de almacenamiento de datos en lenguajes de guión.
+– Comparativa.
+– Tratamiento de formatos estándar.
+– Diccionarios de datos.
+Objetos.
+– Creación de objetos: métodos y estructuras de datos.
+– Bibliotecas de objetos.
+El modelo de documento web.
+– Estructura de documento.
+– Navegación por las propiedades de un documento.
+– Cambio de propiedades mediante lenguajes de guión.
+Gestión de eventos.
+– Tipos de eventos.
+– Técnicas para el manejo de eventos mediante lenguajes de guión.
+– Manejadores de eventos.
+– Eventos de carga inicial.
+– Delegación y propagación de eventos.
+Gestión de errores.
+– Manejo de error «No lenguajes de guión habilitados» (no script).
+– Chequeo de errores en funciones.
+– Captura de errores.
+– Uso de puntos de ruptura.
+Usos específicos de lenguajes de guión.
+– Integración multimedia mediante lenguajes de guión.
+– Animaciones.
+– Efectos especiales en elementos gráficos y texto.
+– Rejillas de datos.
+– Manejo de canales de suscripción (RSS).
+– Descripción de las técnicas de acceso asíncrono (AJAX).
+– Uso de lenguajes de guión en dispositivos móviles.
+Entornos integrados (Frameworks) para el desarrollo con lenguajes de guión.
+– Características de los entornos de uso común. Comparativa.
+– Editores avanzados.
+– Funcionalidades de validación y depuración de código.
+– Técnicas para la documentación del código.
+– Utilidades adicionales para la realización de contenidos dinámicos.
+Extensiones útiles de navegadores.
+– Entornos de desarrollo específicos: desarrollo sobre dispositivos móviles.
+5. Contenidos multimedia
+– Definición de multimedia. Tipos de recursos multimedia.
+– Inclusión de contenido multimedia en páginas web.
+– Adaptadores para recursos multimedia.
+– Enlace a diferentes recursos desde páginas web.
+– Incrustación de contenido multimedia.
+Núm. 300BOLETÍN OFICIAL DEL ESTADO
+Núm. 300
+Miércoles 14 de diciembre de 2011
+–
+–
+–
+–
+–
+Sec. I. Pág. 135593
+– Formatos de fichero web. El estándar MIME.
+– Tipos de reproducción. Streaming y carga progresiva.
+– Comparativa del tratamiento de contenido multimedia en diferentes
+versiones de lenguajes de marcado de páginas.
+Gráficos multimedia.
+– Formatos gráficos. Comparativa.
+– Repositorios de imágenes.
+– Tipos de gráficos: fotografías, imágenes vectorizadas e iconos.
+– Herramientas para el tratamiento gráfico. Filtros y tratamiento de imágenes
+– Conversión de formatos gráficos.
+Audio.
+– Formatos de audio. Comparativa.
+– Reproductores de audio. Inserción en navegadores web.
+– Enlace o inserción de canales de audio.
+– Conversión de formatos de audio.
+– Herramientas para el tratamiento de sonido. Edición de fragmentos de
+audio.
+Vídeo.
+– Formatos de vídeo. Calidad de vídeo y comparativa.
+– Repositorios de vídeo.
+– Reproductores de vídeo. Inserción en navegadores web.
+– Enlace o inserción de canales de vídeo.
+– Conversión de formatos de vídeo. Optimización.
+– Herramientas de edición de vídeo. Creación de efectos y composición.
+Animaciones multimedia.
+– Principios de la animación.
+– Herramientas para la creación de animaciones.
+– Formatos de animaciones.
+– Inclusión en páginas web.
+– Buenas prácticas en el uso de animaciones.
+Elementos interactivos.
+–
+–
+–
+Creación de elementos interactivos.
+Mapas Interactivos.
+Ámbitos de uso.
+
+=====================================================================
+Contenidos
+1. Accesibilidad web
+–
+–
+– Definición de accesibilidad web.
+Ventajas y dificultades en la implantación de la accesibilidad web.
+Normativa y estándares sobre accesibilidad web.
+– – Organismos regulatorios de la accesibilidad web.
+– Comparativa de normas y estándares.
+Guías para el cumplimiento de normativas y estándares.
+– Descripción de las pautas principales (imágenes, enlaces, vídeo, etc.).
+– Pautas para una navegación accesible.
+– Descripción del proceso de la conformidad en accesibilidad web.
+– Tecnologías donde la accesibilidad es aplicable.
+–
+–
+– (X)HTML.
+– CSS.
+– Javascript.
+– Flash.
+– PDF.
+– XML/XSL.
+– Reproducción multimedia.
+– Otras tecnologías.
+Herramientas para la validación de la accesibilidad.
+– Basadas en navegador.
+– Mediante aplicaciones de escritorio.
+– Mediante servicios web externos.
+Evolución de la accesibilidad. Nuevas tendencias.
+2. Usabilidad web
+– Definición de usabilidad.
+– Importancia del diseño web centrado en el usuario.
+– Diferencias entre accesibilidad y usabilidad.
+– Ventajas y problemas en la combinación de accesibilidad y usabilidad.
+– Ventajas y dificultades en la implantación de sitios web usables.
+– Métodos de usabilidad.
+– Análisis de requerimientos de usuario.
+– Principios del diseño conceptual. Creación de prototipos orientados al usuario.
+– Pautas para la creación de sitios web usables.
+– Evaluación de la usabilidad.
