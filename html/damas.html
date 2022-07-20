@@ -10,68 +10,13 @@
 	<link rel="stylesheet" href="damas.css">
 
 	<script type="text/javascript">
-		function casillaInicial(i,j){
-			if (i==0 && j==0) return true;
-			else if (i==2 && j==0) return true;
-			else if (i==4 && j==0) return true;
-			else if (i==6 && j==0) return true;
-			else if (i==1 && j==1) return true;
-			else if (i==3 && j==1) return true;
-			else if (i==5 && j==1) return true;
-			else if (i==7 && j==1) return true;
-			else if (i==0 && j==2) return true;
-			else if (i==2 && j==2) return true;
-			else if (i==4 && j==2) return true;
-			else if (i==6 && j==2) return true;
-			else if (i==1 && j==5) return true;
-			else if (i==3 && j==5) return true;
-			else if (i==5 && j==5) return true;
-			else if (i==7 && j==5) return true;
-			else if (i==0 && j==6) return true;
-			else if (i==2 && j==6) return true;
-			else if (i==4 && j==6) return true;
-			else if (i==6 && j==6) return true;
-			else if (i==1 && j==7) return true;
-			else if (i==3 && j==7) return true;
-			else if (i==5 && j==7) return true;
-			else if (i==7 && j==7) return true;
-			else return false;
-		}
-
-		function inicio(){
-			var n = 0;
-			var board = document.getElementById('board');
-			for (i=0;i<8;i++){
-				for (j=0;j<8;j++){
-					n++;
-					var casilla = document.createElement('div');
-					casilla.id = ''+(i*8+j);
-//					casilla.innerHTML = n;
-					casilla.style.left = (i*60)+'px';
-					casilla.style.top = (j*60)+'px';
-					casilla.style.position = 'absolute';
-					casilla.onclick = function(ev){alert(ev.target.id)}
-
-					if (casillaInicial(i,j)) {
-						var ficha = document.createElement('div');
-						if (j<3) ficha.classList.add("fichaBlanca");
-						else ficha.classList.add("fichaNegra");
-						ficha.style.left = '10px';
-						ficha.style.top = '10px';
-						ficha.style.width = '40px';
-						ficha.style.height = '40px';
-						casilla.appendChild(ficha);
-					}
-
-					board.appendChild(casilla);
-				}
-			}
-		}
 
 		
 	</script>
+	<script type='module' src='damas.js'></script>
+
 </head>
-<body onload="javascript:inicio()">
+<body>
 
 <div class="container">
 	<div class="row">
@@ -81,7 +26,7 @@
 			</div>
 		</div>
 	</div> <!-- row -->
-	
 </div> <!-- container -->
+
 </body>
 </html>
