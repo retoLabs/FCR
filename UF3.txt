@@ -1,0 +1,36 @@
+Las principales características de un sistema distribuido son:
+
+    Concurrencia. Una arquitectura distribuida permite que sea utilizada por todos los usuarios que interactúan en la red.
+    Modularidad. ...
+    Transparencia. ...
+    No depende de los componentes. ...
+    Apertura. ...
+    Carencia de reloj global.
+
+Ventajas de SOA frente al enfoque monolítico
+
+    Comercialización más rápida y mayor flexibilidad: la posibilidad de reutilizar los servicios agiliza y simplifica el proceso de ensamblaje de las aplicaciones. Los desarrolladores no tienen que empezar siempre desde cero, tal como sucede con las aplicaciones monolíticas.
+    
+    Uso de la infraestructura heredada en los mercados nuevos: la SOA permite que los desarrolladores tomen las funciones de una plataforma o un entorno y las ajusten e implementen en otros nuevos.
+    
+    Reducción de los costos gracias a una mayor agilidad y un desarrollo más eficiente
+    
+    Mantenimiento sencillo: dado que todos los servicios son autónomos e independientes, se puede modificar y actualizar cada uno cuando sea necesario, sin afectar al resto.
+    
+    Escalabilidad: la SOA posibilita la ejecución de los servicios en varios lenguajes de programación, servicios y plataformas, lo cual aumenta la escalabilidad de forma considerable. Además, utiliza un protocolo de comunicación estandarizado con el que las empresas pueden disminuir la interacción entre los clientes y los servicios, lo cual permite ajustar las aplicaciones con menos presiones e inconvenientes.
+    
+    Mayor confiabilidad: la SOA genera aplicaciones más confiables, ya que es más fácil depurar servicios pequeños que un código de gran volumen.
+    
+    Gran disponibilidad: las instalaciones de la SOA están disponibles para todos.
+
+
+    El estandar ISO 7498 hace uso de las siguientes definiciones:
+• Servicio de Seguridad (N): Es la capacidad que el nivel N y de los niveles inferiores
+ofrecen a las entidades de nivel N+1 en el campo de la seguridad en el interfaz entre
+el nivel N y el nivel N+1 por medio de las primitivas de servicio.
+• Función de seguridad (N): Es una función relativa a la seguridad de acuerdo al
+servicio proporcionado al nivel N, controlado por el control lógico de la entidad (N).
+• Mecanismo de seguridad (N): Mecanismo de nivel N que realiza una parte de una
+función de seguridad de nivel N.
+
+141.94.87.69

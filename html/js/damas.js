@@ -32,22 +32,32 @@ function cambiaTurno(){
 }
 
 function moverFicha(id){
-	console.log('Moviendo ficha ',objBoard.ficha,' hasta casilla',id);
+	var target = document.getElementById(id);
+	var ficha = document.getElementById(objBoard.ficha);
+	target.appendChild(ficha);
+	console.log('Moviendo ficha ',objBoard.ficha,ficha.tagName,' hasta casilla',id,target.tagName);
 	objBoard.ficha = null;
 }
 
 function clickCasilla(id){
-	var i = id.split(':')[0];
-	var j = id.split(':')[1];
+	var t = id.split(':')[0];
+	var i = id.split(':')[1];
+	var j = id.split(':')[2];
 	if (objBoard.ficha) moverFicha(id);
 	console.log(objBoard.fichas[i][j]);
 }
 
 function clickFicha(id){
-	var i = id.split(':')[0];
-	var j = id.split(':')[1];
-	if (!objBoard.ficha) objBoard.ficha = id;
-	console.log(objBoard.fichas[i][j]);
+	try{
+		var t = id.split(':')[0];
+		var i = id.split(':')[1];
+		var j = id.split(':')[2];
+	//	if (!objBoard.ficha) objBoard.ficha = id;
+		objBoard.ficha = id;
+
+	} 
+	catch {alert(error);}
+	console.log(id,objBoard.fichas[i][j]);
 }
 
 
@@ -86,7 +96,7 @@ function inicio(){
 		for (var j=0;j<8;j++){
 			n++;
 			var casilla = document.createElement('div');
-			casilla.id = ''+i+':'+j;
+			casilla.id = 'C'+':'+i+':'+j;
 			casilla.style.left = (i*60)+'px';
 			casilla.style.top = (j*60)+'px';
 			casilla.style.position = 'absolute';
@@ -94,11 +104,9 @@ function inicio(){
 				var ficha = document.createElement('div');
 				if (j<3) ficha.classList.add("fichaBlanca");
 				else ficha.classList.add("fichaNegra");
-				ficha.id = ''+i+':'+j;
-				ficha.style.left = '10px';
-				ficha.style.top = '10px';
 				ficha.style.width = '40px';
 				ficha.style.height = '40px';
+				ficha.id = 'F'+':'+i+':'+j;
 				ficha.onclick = function(ev){clickFicha(ev.target.id)};
 				casilla.appendChild(ficha);
 			}

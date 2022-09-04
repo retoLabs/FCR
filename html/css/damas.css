@@ -2,6 +2,8 @@
 .fichaBlanca {
 	position: absolute;
 	user-select: none;
+	left: 10px;
+	top: 10px;
 	border-radius : 20px;
 	background-color: red;
 }
@@ -9,6 +11,8 @@
 .fichaNegra {
 	position: absolute;
 	user-select: none;
+	left: 10px;
+	top: 10px;
 	border-radius : 20px;
 	background-color: blue;
 }
@@ -25,8 +29,8 @@
 	width: 60px;
 	height: 60px;
 	position: absolute ;
-}
 
+}
 #board div:nth-child(-2n+8),
 #board div:nth-child(8) ~ div:nth-child(-2n+15),
 #board div:nth-child(16) ~ div:nth-child(-2n+24), 

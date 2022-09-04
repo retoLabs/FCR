@@ -1,0 +1,233 @@
+IFCD0210 DESARROLLO DE APLICACIONES CON TECNIFCD0210
+DESARROLLO DE APLICACIONES CON TECNOLOGÍAS WEBOLOGÍAS
+CONTENIDO
+MÓDULO 1. MF0491_3 PROGRAMACIÓN WEB EN EL ENTORNO CLIENTE
+UNIDAD FORMATIVA 1. UF1841 ELABORACIÓN DE DOCUMENTOS WEB MEDIANTE LENGUAJES DE MARCAS
+UNIDAD DIDÁCTICA 1. DISEÑO WEB
+Principios de diseño web.
+El proceso de diseño web.
+UNIDAD DIDÁCTICA 2. LENGUAJES DE MARCADO GENERALES
+Origen de los lenguajes de marcado generales: SGML y XML.
+Características generales de los lenguajes de marcado.
+Estructura general de un documento con lenguaje de marcado.
+Documentos válidos y bien formados. Esquemas.
+UNIDAD DIDÁCTICA 3. LENGUAJES DE MARCADO PARA PRESENTACIÓN DE PÁGINAS WEB
+Historia de HTML y XHTML. Diferencias entre versiones.
+Estructura de un documento.
+Color.
+Texto.
+Estilos lógicos.
+Enlaces de hipertexto.
+Imágenes.
+Listas.
+Tablas.
+Marcos (frames).
+Formularios.
+Elementos en desuso (deprecated).
+UNIDAD DIDÁCTICA 4. HOJAS DE ESTILO WEB
+Tipos de hojas de estilo: estáticas y dinámicas.
+Elementos y estructura de una hoja de estilo.
+Diseño de estilos para diferentes dispositivos.
+Buenas prácticas en el uso de hojas de estilo.
+UNIDAD FORMATIVA 2. UF1842 DESARROLLO Y REUTILIZACIÓN DE COMPONENTES
+SOFTWARE Y MULTIMEDIA MEDIANTE LENGUAJES DE GUIÓNUNIDAD DIDÁCTICA 1. ARQUITECTURAS DE APLICACIONES WEB
+Esquema general.
+Arquitectura en capas.
+Interacción entre las capas cliente y servidor.
+Arquitectura de la capa cliente.
+UNIDAD DIDÁCTICA 2. NAVEGADORES WEB
+Arquitectura de un navegador.
+Navegadores de uso común. Comparativa.
+Seguridad en navegadores.
+Integración de aplicaciones en navegadores. Adaptadores (plugins).
+Conformidad a estándares.
+UNIDAD DIDÁCTICA 3. CREACIÓN DE CONTENIDO WEB DINÁMICO
+Fundamentos de programación.
+Librerías.
+Lenguajes para el desarrollo de contenido dinámico.
+Miniaplicaciones (applets).
+UNIDAD DIDÁCTICA 4. LENGUAJES DE GUIÓN DE USO GENERAL
+Integración de lenguajes de guión en navegadores web.
+Estructura general de un programa en un lenguaje de guión.
+Funciones.
+Manipulación de texto.
+Listas (arrays).
+Formatos estándar de almacenamiento de datos en lenguajes de guión.
+Objetos.
+El modelo de documento web.
+Gestión de eventos.
+Gestión de errores.
+Usos específicos de lenguajes de guión.
+Entornos integrados (Frameworks) para el desarrollo con lenguajes de guión.
+Comparativa.
+UNIDAD DIDÁCTICA 5. CONTENIDOS MULTIMEDIA
+Definición de multimedia. Tipos de recursos multimedia.
+Inclusión de contenido multimedia en páginas web.
+Gráficos multimedia.
+Audio.
+Edición de fragmentos de audio.
+Vídeo.
+Animaciones multimedia.
+Elementos interactivos.
+UNIDAD FORMATIVA 3. UF1843 APLICACIÓN DE TÉCNICAS DE USABILIDAD Y
+ACCESIBILIDAD EN EL ENTORNO DEL CLIENTE
+UNIDAD DIDÁCTICA 1. ACCESIBILIDAD WEB1.
+Definición de accesibilidad web.
+Ventajas y dificultades en la implantación de la accesibilidad web.
+Normativa y estándares sobre accesibilidad web.
+Guías para el cumplimiento de normativas y estándares.
+Descripción del proceso de la conformidad en accesibilidad web.
+Tecnologías donde la accesibilidad es aplicable.
+Herramientas para la validación de la accesibilidad.
+Evolución de la accesibilidad. Nuevas tendencias.
+UNIDAD DIDÁCTICA 2. USABILIDAD WEB
+Definición de usabilidad.
+Importancia del diseño web centrado en el usuario.
+Diferencias entre accesibilidad y usabilidad.
+Ventajas y problemas en la combinación de accesibilidad y usabilidad.
+Ventajas y dificultades en la implantación de sitios web usables.
+Métodos de usabilidad.
+Análisis de requerimientos de usuario.
+Principios del diseño conceptual. Creación de prototipos orientados al usuario.
+Pautas para la creación de sitios web usables.
+Evaluación de la usabilidad.
+MÓDULO 2. MF0492_3 PROGRAMACIÓN WEB EN EL ENTORNO SERVIDOR
+UNIDAD FORMATIVA 1. UF1844 DESARROLLO DE APLICACIONES WEB EN EL ENTORNO SERVIDOR
+UNIDAD DIDÁCTICA 1. EL PROCESO DEL DESARROLLO DE SOFTWARE
+Modelos del ciclo de vida del software.
+Análisis y especificación de requisitos.
+Diseño.
+Implementación. Conceptos generales de desarrollo de software.
+Validación y verificación de sistemas.
+Pruebas de software.
+Calidad del software.
+Herramientas de uso común para el desarrollo de software
+Gestión de proyectos de desarrollo de software.
+UNIDAD DIDÁCTICA 2. LA ORIENTACIÓN A OBJETOS
+Principios de la orientación a objetos. Comparación con la programación estructurada.
+Clases de objetos.
+Objetos.
+Herencia.
+Modularidad.
+Genericidad y sobrecarga.
+Desarrollo orientado a objetos.
+Lenguajes de modelización en el desarrollo orientado a objetos.UNIDAD DIDÁCTICA 3. ARQUITECTURAS WEB
+Concepto de arquitectura web.
+El modelo de capas.
+Plataformas para el desarrollo en las capas servidor.
+Herramientas de desarrollo orientadas a servidor de aplicaciones web.
+UNIDAD DIDÁCTICA 4. LENGUAJES DE PROGRAMACIÓN DE APLICACIONES WEB EN EL
+LADO SERVIDOR
+Características de los lenguajes de programación web en servidor.
+Tipos y características de los lenguajes de uso común.
+Criterios en la elección de un lenguaje de programación web en servidor. Ventajas e inconvenientes.
+Características generales.
+Gestión de la configuración.
+Gestión de la seguridad.
+Gestión de errores.
+Transacciones y persistencia.
+Componentes en servidor. Ventajas e inconvenientes en el uso de contenedores de componentes.
+Modelos de desarrollo. El modelo vista controlador.
+Eventos e interfaz de usuario.
+Documentación del software. Inclusión en código fuente. Generadores de documentación.
+UNIDAD FORMATIVA 2. UF1845 ACCESO A DATOS EN APLICACIONES WEB DEL ENTORNO SERVIDOR
+UNIDAD DIDÁCTICA 1. MODELOS DE DATOS
+Concepto de dato. Ciclo de vida de los datos.
+Tipos de datos.
+Definición de un modelo conceptual.
+El modelo relacional.
+Construcción del modelo lógico de datos.
+El modelo físico de datos. Ficheros de datos.
+Transformación de un modelo lógico en un modelo físico de datos.
+Herramientas para la realización de modelos de datos.
+UNIDAD DIDÁCTICA 2. SISTEMAS DE GESTIÓN DE BASES DE DATOS (SGBD)
+Definición de SGBD.
+Componentes de un SGDB. Estructura.
+Terminología de SGDB.
+Administración de un SGDB.
+Soluciones de SGBD.
+Criterios para la selección de SGBD comerciales.
+UNIDAD DIDÁCTICA 3. LENGUAJES DE GESTIÓN DE BASES DE DATOS. EL ESTÁNDAR SQL
+Descripción del estándar SQL.
+Creación de bases de datos.
+Gestión de registros en tablas.
+Consultas.
+Conversión, generación y manipulación de datos.
+Consultas múltiples. Uniones (joins).
+Agrupaciones.
+Vistas.
+Funciones avanzadas.
+UNIDAD DIDÁCTICA 4. LENGUAJES DE MARCAS DE USO COMÚN EN EL LADO SERVIDOR
+Origen e historia de los lenguajes de marcas. El estándar XML.
+Características de XML.
+Estructura de XML.
+Estándares basados en XML.
+Análisis XML.
+Uso de XML en el intercambio de información.
+UNIDAD FORMATIVA 3. UF1846 DESARROLLO DE APLICACIONES WEB DISTRIBUIDAS
+UNIDAD DIDÁCTICA 1. ARQUITECTURAS DISTRIBUIDAS ORIENTADAS A SERVICIOS
+Características generales de las arquitecturas de servicios distribuidos.
+Modelo conceptual de las arquitecturas orientadas a servicios
+Aspectos de seguridad en arquitecuturas orientadas a servicios
+Implementación de arquitecturas orientadas a servicios mediante tecnologías web
+Implementación de la seguridad en arquitecturas orientadas a servicios
+Directorios de servicios
+UNIDAD DIDÁCTICA 2. PROGRAMACIÓN DE SERVICIOS WEB EN ENTORNOS
+DISTRIBUIDOS
+Componentes software para el acceso a servicios distribuidos
+Programación de diferentes tipos de acceso a servicios
+Herramientas para la programación de servicios web
+MÓDULO 3. MF0493_3 IMPLANTACIÓN DE APLICACIONES
+WEB EN ENTORNOS INTERNET, INTRANET Y EXTRANET
+UNIDAD DIDÁCTICA 1. INTERNET
+Breve historia y origen de Internet.
+Principales servicios ofrecidos por Internet.
+La tecnología de Internet.
+Redes TCP/IP.
+Consideraciones de seguridad. Cortafuegos.
+UNIDAD DIDÁCTICA 2. LA WORLD WIDE WEB
+Breve historia de la World Wide Web.
+Arquitectura general de la Web.
+El cliente web.
+Servidores web.
+Servidores de aplicaciones.
+Servidores de bases de datos.7. Servidores complementarios en una arquitectura web.
+Características.
+Infraestructura hardware y software para servidores de Internet.
+UNIDAD DIDÁCTICA 3. APLICACIONES WEB
+Evolución y tipos de aplicaciones informáticas.
+Tecnologías de desarrollo de aplicaciones.
+Tecnologías específicas para el desarrollo web.
+UNIDAD DIDÁCTICA 4. DESARROLLO Y DESPLIEGUE DE APLICACIONES WEB
+Modelos básicos de desarrollo de aplicaciones web. El modelo vista-controlador (MVC).
+Herramientas de desarrollo web de uso común.
+Políticas de desarrollo y pruebas de aplicaciones web.
+Seguridad en una aplicación web.
+Certificados digitales.
+Despliegue de aplicaciones web.
+UNIDAD DIDÁCTICA 5. VERIFICACIÓN DE APLICACIONES WEB
+Características de un proceso de pruebas.
+Tipos de pruebas.
+Estadísticas.
+Diseño y planificación de pruebas. Estrategias de uso común..
+Consideraciones de confidencialidad. Pruebas con datos personales.
+Automatización de pruebas. Herramientas.
+UNIDAD DIDÁCTICA 6. CONTROL DE VERSIONES
+Definición.
+Características generales.
+Tipos de control de versiones.
+Mecanismos de control de versiones
+Operaciones atómicas
+Buenas prácticas en control de versiones.
+Herramientas de control de versiones de uso común.
+Integración del control de versiones en herramientas de uso común.
+UNIDAD DIDÁCTICA 7. DOCUMENTACIÓN DE APLICACIONES WEB
+Características generales de la documentación. Importancia en el ciclo de vida software
+Organización y estructura básica de documentos.
+Gestión de versiones de documentos.
+Tipos de documentación.
+Formatos de documentación.
+Estándares de documentación.
+Herramientas de documentación.
+Buenas prácticas en documentación.
+ANEXO 1. EJERCICIOS PRÁCTICOS

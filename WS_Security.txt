@@ -1,0 +1,91 @@
+The solutions of confidentiality issue are the following: 
+a) XML-RPC and SOAP run on top of HTTP; 
+b) HTTP supports SSL (Secure Sockets Layer); 
+c) Encrypt communication with SSL.
+
+The solutions of authentication issue are the following:
+1. HTTP has built-in support for Basic and Digest authentication, so web services can be
+protected in the same manner as HTML documents.
+2. Digital Signature of SOAP Security Extensions: public key to digitally sign SOAP
+messages.
+3. SAML (Security Assertion Markup Language) of OASIS (Organization for the
+Advancement of Structured Information Standard)
+
+Web services security requirements are the following [10]:
+ Authentication. Verifies that users are who they claim to be (passwords, tokens,
+public key certificates, secret keys).
+ Authorization. Grants permission to access resources, providing basis for access
+control.
+ Encryption. Provides cryptographic algorithms and protocols to protect data and
+messages from disclosure and modification.
+ Accountability. Ensures that users are accountable for their action.
+ Security administration. Defines security policy for user profiles, authentication,
+authorization, etc.
+
+
+
+
+Basic Authentication use base 64 Encoding for generating cryptographic string which contains the information of username and password.
+Digest Access Authentication uses the hashing methodologies to generate the cryptographic result
+
+nonce : Number used only ONCE
+
+Java (Lenguaje programación)
+J2EE (Java Enterprise Edition)
+JakartaEE
+Tomcat
+JBoss
+IBM WebSphere
+WAS WebSphere Application Server
+Apache Geronimo (J2EE/JakartaEE)
+
+HTTP (HyperText Transfer Protocol)
+HTTP/2.x incluye REST
+Socket : una comunicación, interna o externa (IP,port,TCP/IP)
+SSL (Secure Socket Layer)
+SSE Server Sents Events
+HTTPS (HyperText Transfer Protocol Secure) 
+SMTP (Simple Mail Transfer Protocol)
+JMS (Java Messages Service)
+SOA (Service Oriented Architecture)
+microServices ()
+ESB (Enterprise Service Bus)
+
+COM -> DCOM (Distributed Component Object Model)
+CORBA Common Object Request Broker Architecture
+CORBA es una arquitectura de objetos distribuidos
+IDL (Interface Definition Language) 
+RMI-IIOP
+Con RMI, puede escribir programas distribuidos en el lenguaje de programación Java
+IIOP es un protocolo de comunicación de CORBA
+Antes, los programadores Java tenían que elegir entre 
+RMI y CORBA/IIOP (Java IDL) para las soluciones de programación distribuidas.
+
+OMG Object Management Group
+ORB Object Request Broker [middelware]
+GIOP General Inter-ORB Protocol
+
+WS-Security (tokens)
+WS-ReliableMessaging (mensajes)
+WS-Adressing (metadatos en enlace SOAP)
+WSDL (Description language)
+API (Application Program Interface)
+REST (Representational State Transfer [Arquitectura])
+SOAP (Simple Object Acces Protocol)
+REST es más moderno que SOAP
+
+API REST usa protocolo HTTP
+API REST usa notaciones HTML/XML/plain text/JSON
+
+API SOAP usa protocolos HTTP/SMTP/JMS/...
+API SOAP usa notación XML
+
+SOAP Viene de XML-RPC
+SOAP Envelope[Header[headers blocks]][body]]
+SOAP Sender / Receiver [ultimate]
+
+PAC Controladores programables de automatización
+IoT Internet de las cosas 
+
+IBM Starling B2B Integrator
+IBM SOA Inbound Security Service

@@ -1,0 +1,11 @@
+
+Datos FTP FRancisco
+IP: 141.94.87.69
+
+Usuari profe:     cursosj-franciscoCer
+
+Pwd profe:         franciscoCer2022
+
+Carpeta arrel:    ./pq20210009
+
+PDO sentencias preparadas SQL 
