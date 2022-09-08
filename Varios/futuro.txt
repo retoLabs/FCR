@@ -1,0 +1,100 @@
+Autenticacion / Autorizacion
+SSO: Single Sign On
+Django(Python)
+Directory Service
+LDAP / Active Directory
+Identity provider
+Service provider
+Two factor autenticacion
+Fine grained Autenticacion
+HTTP(S) Basic Autenticacion
+OpenID Connect OAuth2.0 REST (no tiene Identity provider)
+SAML ->Okta SOAP
+OpenAM
+Gluu
+
+Stacks:
+LAMP Linux, Apache, MySql,PHP/Python/
+MEAN Mongo, Express,Angular, NodeJS
+MERN Mongo, Express,React  , NodeJS
+MEVN Mongo, Express,Vue    , NodeJS
+MEEN Mongo, Express,Ember, NodeJS
+WISA Window, IIS, SQL Server, ASP.NET
+
+WAMP (Sistema operativo Windows)
+MAMP (Sistema operativo Mac OS X)
+XAMPP (Sistema operativo a escoger, Perl y PHP + servidorFTP)
+LAPP (Base de datos PostgreSQL para proyectos empresariales de gran envergadura)
+
+LAPP packaged by Bitnami provides a complete, fully-integrated and ready to run LAPP development environment.
+In addition to PHP, PostgreSQL and Apache, it includes 
+openSSL, ModSecurity, PageSpeed, Varnish, SQLite, ImageMagick, 
+xDebug, Xcache, OpenLDAP, Memcache, OAuth, PEAR, PECL, APC, GD, cURL and Composer.
+
+Frameworks:
+Vue was developed and first released in 2014 by Evan You and is widely used by companies based in China. The main advantage of this framework is its step-by-step implementation. VueJS has a comprehensive architecture that is easily applied in practice. Also, Vue-based apps can be combined with other complex solutions to create new projects.
+
+Ember :This framework has existed for years. Over time Ember.js has shown how capable its team is in maintaining the framework and integrating up-to-date standards into it. And even things change, the old developments remain in their places.
+
+Some programmers contribute to the development of Ember the most. And they also get to deal with JavaScript standardization. Ember.js has made a more significant impact on JS over the past few years than other frameworks.
+
+Angular, is a TypeScript-based JavaScript framework by Google. It was released in 2010, with its latest version – Angular 8 – appearing in May 2019. Overall, Angular with versions 2 and above has become way better than it used to be. The update removed all the unnecessary complexities making the framework easier to learn.
+
+Some might say that Angular’s performance is on the lower side. However, it’s only fair for the first version, as its performance now does prove to be quite high. The framework adopted the practice popularized by React – one-way data flow and immutable data. Hence, Angular will only update the data changes once. And each change detection makes a quick check of the object’s reference instead of checking all its values.
+
+Lenguajes
+Stacks
+Frameworks
+Librerias
+Metodologias
+Estrategias
+Tecnologías
+Protocolos
+Arquitecturas
+Productos
+Marcas
+Organizaciones
+CI/CD Continuus Integration/Continuus Delivery
+Lang Go
+Lang Rust
+Lang Dart
+Apache Spark
+Apache Hadoop / H. YARN
+Apache MapReduce
+Apache Hive
+Apache Kafka
+Apache Cassandre
+Apache HBase
+Apache MESOS
+JSON5
+Jest
+TDD Test Development Driven
+Swift
+Cocoa / CocoaTouch
+MK Match
+MK Zircon
+MK LitleKernel
+Google Fuchsia (SO)
+Google Flutter
+
+GraphQL
+Clean Architecture
+TypeScript
+Android (K Linux)
+ChromeOS (K linux)
+
+cod&fix
+Wterfall (Cascada)
+Agile MVP (Minimun Viable Product)
+Scrum /JIRA
+Kanban
+Lean
+JIRA (Atlassian)
+
+Tru64 Alfa HP
+
+=====================================================================
+"ALBUM GRANTS"
+Construir un album de fotos online, en forma de árbol. 
+Se pueden conceder permisos (post/get/put/delete) a los usuarios.
+Y esto recursivamenet,  en las ramas hijas de cada nodo,
