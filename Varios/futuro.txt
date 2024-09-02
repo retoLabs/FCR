@@ -1,8 +1,8 @@
-Autenticacion / Autorizacion
+Autenticacion/Autorizacion
 SSO: Single Sign On
 Django(Python)
 Directory Service
-LDAP / Active Directory
+LDAP/Active Directory
 Identity provider
 Service provider
 Two factor autenticacion
@@ -42,24 +42,24 @@ Angular, is a TypeScript-based JavaScript framework by Google. It was released i
 
 Some might say that Angular’s performance is on the lower side. However, it’s only fair for the first version, as its performance now does prove to be quite high. The framework adopted the practice popularized by React – one-way data flow and immutable data. Hence, Angular will only update the data changes once. And each change detection makes a quick check of the object’s reference instead of checking all its values.
 
-Lenguajes
+Langs Lengua_jes
 Stacks
-Frameworks
-Librerias
-Metodologias
-Estrategias
-Tecnologías
-Protocolos
-Arquitecturas
-Productos
+Framew_orks
+Libs Librer_ias
+Metodo_logias
+Estrat_egias
+Tecnol_ogías
+Protoc_olos
+Arquit_ecturas
+Produc_tos
 Marcas
-Organizaciones
+Orgs Organi_zaciones
 CI/CD Continuus Integration/Continuus Delivery
 Lang Go
 Lang Rust
 Lang Dart
 Apache Spark
-Apache Hadoop / H. YARN
+Apache Hadoop/H. YARN
 Apache MapReduce
 Apache Hive
 Apache Kafka
@@ -70,7 +70,7 @@ JSON5
 Jest
 TDD Test Development Driven
 Swift
-Cocoa / CocoaTouch
+Cocoa/CocoaTouch
 MK Match
 MK Zircon
 MK LitleKernel
@@ -98,3 +98,69 @@ Tru64 Alfa HP
 Construir un album de fotos online, en forma de árbol. 
 Se pueden conceder permisos (post/get/put/delete) a los usuarios.
 Y esto recursivamenet,  en las ramas hijas de cada nodo,
+=====================================================================
+NodeJS-Express-Passport/Bolt/ LernaJS
+ObjectionJS ORM Oauthh
+
+ORM : Object Relational Mapping
+
+Pino:
+Fastyfy/Express/Hapi/Restify/Koa/NodeJS core/NestJS/H3
+
+Jest:
+Babel/webpack/vite/Parcel/Typescript
+
+Koa/SailsJS/Hapi/AdonisJS/Meteor/FeatherJS/Ruby on Rails/FastAPI /Symphony/Yii/TotalJS/Dropwizard
+
+API Economy:
+Intercom/EAGER/DISQUS/PayPal/facebook/twitter/snipcart/stripe/ZENDESK/Olark/optimizely/Firebase
+
+PHP e-commerce:
+Laravel/Magento/Volusion/Shopify/Prestashop
+Eloquent ORM
+Laragon
+
+KnexJS:
+SQLite3
+CocroachDB
+Redshift
+PostgreSQL
+MariaDB
+Oracle
+MSSQL
+MySQL
+Amazon
+
+splideJS/swiperJS/tailwindCSS
+
+WordPress/Drupal/Joomla
+
+Gulp/Grunt
+
+MySQL/nginx
+
+JAMstack : JS-APIs-Markup
+
+Notion??
+
+XRAY / ThreeJS
+
+Jenkins / Phabricator
+
+Existen cientos de micro-ordenadores que han utilizado CP/M. A continuación se mencionan los más importantes desde el punto de vista histórico:
+
+    MITS Altair 8800
+    Amstrad CPC 464, 664 y 6128
+    Amstrad PCW 8256, 8512, 9512
+    Apple II
+    Atari ST
+    BBC Micro
+    Commodore 64 y Commodore 128
+    Grundy NewBrain
+    IBM PC
+    MSX
+    VTech Laser 700
+    Spectravideo SVI-328
+    ZX Spectrum + Interface Beta Disk
+    ZX Spectrum +3
+
